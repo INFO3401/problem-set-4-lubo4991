@@ -1,0 +1,32 @@
+Lucas Bouchard
+Problem set 4
+9/17/18
+Info Exploration
+
+1. Peter Naur is famously quoted as saying data science “deals with the data, while the actual relation of data  to what they represent should occur in other fields.” What might be problematic in this statement? Why do you think he’d choose to frame data science this way?
+
+I think what Peter Naur is trying to say here is that data science is a very broad term and "data science" should be represented differently in each respected field. This can be problematic becuase the term "data science" shouldn't be addressed in a way that is distinguishable between two fields. Data science is a method of sourcing, managing, and analyzing large amounts of unstructured data regardless of the field. I can undertand his underlining point that someone who is data scientist in healthcare, for example, couldn't use that skill set in another field becuase they wouldn't know how to use data in that field. 
+
+2. There was a substantial shift in the ways we define data science between the 1970s and the early 2000s. Describe this shift and why it may have emerged.
+
+Naur: We should not intergrate domain knowldege into data analytics. 
+Awesome methods but no idea of how to make sense of data. 
+How ddo we make data meaningful? 
+
+
+3. The idea of "big data" dominates much of modern data science. However, data is still growing at an exponential rate.
+
+A. What factors do you think may have led to this growth? Mention at least three and describe why they have contributed to recent explosions in data volume.
+
+- Companies seeking competitive advantage. 
+- Increase in domain knowledge 
+-Moore's law has lead to oomputing ability of accessible software systems to keep increasing to the point where personal computers could handle larger amounts of data. 
+
+
+
+B. Where is this new data coming from?
+
+
+
+lets move forward from the data
+lets move forwarrd from the methods. 
