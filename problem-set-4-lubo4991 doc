@@ -5,28 +5,33 @@ Info Exploration
 
 1. Peter Naur is famously quoted as saying data science “deals with the data, while the actual relation of data  to what they represent should occur in other fields.” What might be problematic in this statement? Why do you think he’d choose to frame data science this way?
 
-I think what Peter Naur is trying to say here is that data science is a very broad term and "data science" should be represented differently in each respected field. This can be problematic becuase the term "data science" shouldn't be addressed in a way that is distinguishable between two fields. Data science is a method of sourcing, managing, and analyzing large amounts of unstructured data regardless of the field. I can undertand his underlining point that someone who is data scientist in healthcare, for example, couldn't use that skill set in another field becuase they wouldn't know how to use data in that field. 
+I think what Peter Naur is trying to say here is that the term "data science" should be represented differently in each respected field rather than having a universal meaning. I believe that this can be considered problematic because the term "data science" shouldn't be addressed in a way that is distinguishable depending on your domain . Data science is a method of sourcing, managing, and analyzing large amounts of unstructured data regardless of the subject. I can undertand his underlining point that someone who is a data scientist in healthcare, for example, couldn't use that same skill set in another field becuase they wouldn't have the necessary knowledge to be successful. 
 
 2. There was a substantial shift in the ways we define data science between the 1970s and the early 2000s. Describe this shift and why it may have emerged.
 
-Naur: We should not intergrate domain knowldege into data analytics. 
-Awesome methods but no idea of how to make sense of data. 
-How ddo we make data meaningful? 
+The shift between how we defined data science between the 1970s and 2000s has been the result of new emerging theories, methods, and technology. Originally, data science became an area of study after Peter Naur introduced the idea of "datalogy" and emphasized how useful data can be in representing facts though various processes. Eventually the Knowledge discovery in databases(KDD) emerged as the first data mining strategy that became useful in occuring knowledge from a collection of data. In the 1990's, BusinessWeek published an article about companies using data, highlighting this data science shift into corporate America. By the early 2000's, it became evident that data science was a necessity for any business to be successful moving forward. I think this shift emerged, as fast as it did, do to the advancement in technology allowing cheaper hardware, faster computing, and more bandwidth. 
 
 
 3. The idea of "big data" dominates much of modern data science. However, data is still growing at an exponential rate.
 
 A. What factors do you think may have led to this growth? Mention at least three and describe why they have contributed to recent explosions in data volume.
 
-- Companies seeking competitive advantage. 
-- Increase in domain knowledge 
--Moore's law has lead to oomputing ability of accessible software systems to keep increasing to the point where personal computers could handle larger amounts of data. 
-
+I think the three main factors that have resulted in this  growth of "big data" are corporations seeking competitive advantage, increase in domain knowledge, and advancements in technology. For many businesses, big data has become a vital importance to their success as statistics, quantitative analysis, and predictive modeling are now a primary element of competition. As more and more people learn the skills and methods necessary to be successful in data science, domain knowledge has also increased by providing people new and innovative ways of approaching their respected fields. Lastly, advancements in technology has also contributed to the emergence of big data. Moore's law has stayed true and computing abilities have continued to increase to the point where even personal computers can now handle larger amounts of data. 
 
 
 B. Where is this new data coming from?
 
+Data has always exsisted, however, people didn't know what to do with it until now. Methods of collecting data, via new technologies, has also allowed the emergence of knowledge that was previously unattainable. Not many people realize this but we are  all carrying with us a device that can essentially generate unlimited amounts of data and information. This of course has incredible value for corporations looking to market their products and stay competitive. More advanced methods of data collecting, such as distributed computing, cognitive computing and hardware acceleration has also provided more opportunities to collect data that we previously weren't aware of. 
+
+FRIDAY
+
+Name three different data collection methods. How are they similar? How are they different? Consider using specific scenarios where you may need to collect data to ground your responses. 
 
 
-lets move forward from the data
-lets move forwarrd from the methods. 
+Three main data collection methods that I'm familiar with include archival(log data), informant interviews, and surveys. I believe one of the more practical and efficient means of collecting data is through archives and log data. Some of the pros of using this type of method include high accuracy and good to moderate validity. This can also be useful for trend analysis or comparisons of larger populations. A scenario you might find yourself using this method include analysis of previously accessible records or archives. In other words, you don't need to generate any data with this method because the data already exsists. You just need to be able to access that data correctly. Informative interviews have been a very prominent method of data collecting, especially for students in Information Science. With this method you can collect data that explores particular issues in more depth that otherwise wouldn't be obtainable through log data. Surveys can also be a great method of data collecting that allows for comparison of a particular population. This may seem similar to using log data, however, with this method, you are the one generating the data rather than having it already available to you. 
+
+
+
+
+
+
